@@ -30,7 +30,7 @@ The workflow includes:
   - artifacts/preprocessor.joblib
   - artifacts/metadata.json
 
-## Current Model Snapshot
+## Current Model Performance
 
 From the latest notebook run:
 - Final NeuralNet test MAE: ~3.87 minutes
