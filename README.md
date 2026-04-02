@@ -3,7 +3,7 @@
 Neural-network based delivery time prediction project built using TensorFlow/Keras, and hyperparameter tuning with keras_tuner and finally SHAP analysis as well.
 
 - You can find the entire workflow in: `nn_delivery_time_regression.ipynb`.
-- Best model will be saved as: `best_nn_model.keras`
+- Best model is available as: `best_nn_model.keras`
 - Keras Tuner outputs are saved to: `kt_tuning/` (however, not included in this repo)
 - Artifacts will be saved to: `artifacts/` (however, they are not included in this repo)
 
